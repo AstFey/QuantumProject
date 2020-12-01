@@ -1,7 +1,7 @@
 # QuantumProject
 
 ## Caylay Path
-The implementation of the algorithm 'Quantum Supremacy and random circuits'.
+The implementation of the algorithm in 'Quantum Supremacy and random circuits'.
 
 Main program is in simulation.py.
 
